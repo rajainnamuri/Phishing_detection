@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Website Checker Bot",
+  "version": "1.0",
+  "description": "Checks website safety using AI",
+  "permissions": ["tabs"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+  
+}
